@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="LengthBetweenCities.InOutUtils">
+    <Position X="2" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Methods\InOutUtils.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LengthBetweenCities.Route">
+    <Position X="6" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAAAAAEAAAAAiBAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Methods\Route.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LengthBetweenCities.TaskUtils">
+    <Position X="4" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAA=</HashCode>
+      <FileName>Methods\TaskUtils.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LengthBetweenCities.WebForm">
+    <Position X="8" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAQAAAEAAIAAAgAEAAQAgAIAD5QAAAAAAACCIAIAA=</HashCode>
+      <FileName>WebForm.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

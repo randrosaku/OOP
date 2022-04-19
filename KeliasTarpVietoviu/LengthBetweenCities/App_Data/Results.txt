@@ -1,0 +1,38 @@
+Number of cities - 5
+Number of roads - 8
+
+Cities
+----------------
+| Id |   Name  |
+----------------
+|  1 | Preivai |
+|  2 | Saukai  |
+|  3 | Salai   |
+|  4 | Rekai   |
+|  5 | Balkai  |
+----------------
+
+Roads
+------------------------------------------
+| Id |   Source   |   Target  |  Length  |
+------------------------------------------
+|  1 | Preivai    | Saukai    |        2 | 
+|  2 | Preivai    | Salai     |        8 | 
+|  3 | Preivai    | Balkai    |       10 | 
+|  4 | Saukai     | Balkai    |        7 | 
+|  5 | Saukai     | Rekai     |        2 | 
+|  6 | Salai      | Rekai     |        4 | 
+|  7 | Salai      | Balkai    |        6 | 
+|  8 | Rekai      | Balkai    |        2 | 
+------------------------------------------
+
+Start: Preivai
+Finish: Balkai
+
+Minimal length between the cities Preivai and Balkai is 6 km.
+
+The route is following these roads: 
+Preivai
+Saukai
+Rekai
+Balkai
