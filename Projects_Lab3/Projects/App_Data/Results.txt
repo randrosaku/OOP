@@ -1,0 +1,77 @@
+Student list
+---------------------------------------------------
+|   Project name   |  Surname  |   Name   | Group |
+---------------------------------------------------
+| Project Breeze   | Halpert   | Jim      | IFD02 |
+| Command Program  | Geller    | Monica   | IFF04 |
+| Project Point    | Bing      | Chandler | IFF01 |
+| Project Mecha    | Tribiani  | Joey     | IFF01 |
+| Project Zen      | Beesly    | Pam      | IFF01 |
+| Project Force    | Geller    | Ross     | IFD02 |
+| Project Systems  | Scott     | Michael  | IFF04 |
+| Program Pad      | Green     | Rachel   | IFD01 |
+---------------------------------------------------
+
+Professor list
+--------------------------------------------------
+|    Project name    |       Name        | Hours |
+--------------------------------------------------
+| Project Breeze     | Einstein Albert   |    40 |
+| Native Program     | Curie Marie       |    65 |
+| Command Program    | Newton Isaac      |    55 |
+| Magnetic Program   | Einstein Albert   |    30 |
+| Project Point      | Einstein Albert   |    45 |
+| Project Mecha      | Galilei Galileo   |    50 |
+| Program Pad        | Newton Isaac      |    35 |
+| Project Synergy    | Curie Marie       |    45 |
+| Project Illuminate | Einstein Albert   |    40 |
+| Dynamic Program    | Franklin Rosalind |    55 |
+| Project Zen        | Galilei Galileo   |    45 |
+| Project Systems    | Newton Isaac      |    50 |
+| Project Force      | Franklin Rosalind |    50 |
+--------------------------------------------------
+
+Professors
+---------------------
+|       Name        |
+---------------------
+| Einstein Albert   |
+| Curie Marie       |
+| Newton Isaac      |
+| Galilei Galileo   |
+| Franklin Rosalind |
+---------------------
+
+Professors sorted alphabetically
+---------------------
+|       Name        |
+---------------------
+| Curie Marie       |
+| Einstein Albert   |
+| Franklin Rosalind |
+| Galilei Galileo   |
+| Newton Isaac      |
+---------------------
+
+Updated professor list
+---------------------
+|       Name        |
+---------------------
+| Einstein Albert   |
+| Franklin Rosalind |
+| Galilei Galileo   |
+| Newton Isaac      |
+---------------------
+
+Professor(s) having the most projects:
+Newton Isaac
+
+Chosen professor's projects
+------------------------
+|       Projects       |
+------------------------
+| Program Pad          |
+| Project Systems      |
+| Command Program      |
+------------------------
+
